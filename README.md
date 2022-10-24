@@ -10,4 +10,3 @@ Skills I will practice with this project are as follows:
 - Creating HTML boilerplate (from scratch & using VSCode built in).
 - Embedding links
 - Ordered & unordered lists (with proper nesting techniques)
--
