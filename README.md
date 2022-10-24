@@ -7,6 +7,7 @@ links on it; each to a different recipe page I will create.
 Skills I will practice with this project are as follows:
 - Git basics
 - Github basics
-- Creating HTML boilerplate (from scratch)
+- Creating HTML boilerplate (from scratch & using VSCode built in).
 - Embedding links
-- Ordered & unordered lists
+- Ordered & unordered lists (with proper nesting techniques)
+-
