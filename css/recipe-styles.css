@@ -1,0 +1,17 @@
+.headers {
+    background-color: rgb(237, 173, 55);
+    border-radius: 5px;
+    color: white;
+}    
+
+* {
+    font-family: monospace;
+/*
+*/
+    font-style: oblique -90deg;
+    font-size: 40px;
+    font-weight: 900;
+    font-stretch: extra-expanded;
+    color: blue;
+}
+
